@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(112, 20, 51);
+}
+
+div {
+    border: solid black;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 50px;
+    background-color: white;
+}
+
+.div h1 {
+margin-left: 20px;
+font-size: 30px;
+}
+
+.div h2 {
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.div h3 {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.div P {
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.div li {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
